@@ -138,6 +138,7 @@ Distributed under the MIT License. See LICENSE for more information.
 
 
 🤝 Contributing
+```
 Fork the Project
 
 Create your Feature Branch (git checkout -b feature/AmazingFeature)
