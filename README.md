@@ -95,15 +95,14 @@ model = NaViT(
 
 
 📊 Dashboard Preview
-The dashboard includes:
 
-Live Feed: Real-time analysis of the docking target.
+- Live Feed: Real-time analysis of the docking target.
 
-Identification Status: Green/Orange color-coded indicators for "Docking Side" detection.
+- Identification Status: Green/Orange color-coded indicators for "Docking Side" detection.
 
-Confidence Meter: Probability score for the current classification.
+- Confidence Meter: Probability score for the current classification.
 
-Historical Samples: Auto-captures 5 snapshots for mission review.
+- Historical Samples: Auto-captures 5 snapshots for mission review.
 
 
 
