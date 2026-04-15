@@ -107,7 +107,7 @@ model = NaViT(
 
 <div align="center">
   <h3>🎥 Project Demo</h3>
-  <video src="https://drive.google.com/file/d/15MItUpW9g5mi6fmg7roHyVN5K0EM9rSy/view?usp=sharing" width="100%" controls></video>
+  <video src="https://github.com/mayhammad277/SwinDock-Vision-Based-Satellite-Docking-Identification/raw/refs/heads/main/Screencast%20from%2026.06.2025%2015_03_53.webm" width="100%" controls></video>
 </div>
 
 
