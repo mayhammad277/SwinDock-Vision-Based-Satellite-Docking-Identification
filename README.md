@@ -105,15 +105,11 @@ model = NaViT(
 - Historical Samples: Auto-captures 5 snapshots for mission review.
 
 
-
-
 <div align="center">
-  <h3>🛰️ System Demo</h3>
-  <video src=" https://drive.google.com/file/d/15MItUpW9g5mi6fmg7roHyVN5K0EM9rSy/view?resourcekey
-" width="100%" controls>
-    Your browser does not support the video tag.
-  </video>
+  <h3>🎥 Project Demo</h3>
+  <video src="https://drive.google.com/file/d/15MItUpW9g5mi6fmg7roHyVN5K0EM9rSy/view?usp=sharing" width="100%" controls></video>
 </div>
+
 
 
 
