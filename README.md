@@ -85,12 +85,12 @@ model = NaViT(
 
 - - 📂 Project Structure
 .
-├── cam_identify_gui3.py    # Main PyQt5 Live Inference Dashboard
-├── cam_inf_idetify.py      # Lightweight OpenCV inference script
-├── finetune_navvit_swin.py # Model training and fine-tuning logic
-├── navvit_swin.py          # NaViT architecture implementation
-├── poet_2_env.yml          # Conda environment configuration
-└── assets/                 # Backgrounds and sample images (star_background.jpg)
+- ├── cam_identify_gui3.py    # Main PyQt5 Live Inference Dashboard
+- ├── cam_inf_idetify.py      # Lightweight OpenCV inference script
+- ├── finetune_navvit_swin.py # Model training and fine-tuning logic
+- ├── navvit_swin.py          # NaViT architecture implementation
+- ├── poet_2_env.yml          # Conda environment configuration
+- └── assets/                 # Backgrounds and sample images (star_background.jpg)
 
 
 
@@ -107,8 +107,13 @@ model = NaViT(
 
 
 
-
-
+<div align="center">
+  <h3>🛰️ System Demo</h3>
+  <video src=" https://drive.google.com/file/d/15MItUpW9g5mi6fmg7roHyVN5K0EM9rSy/view?resourcekey
+" width="100%" controls>
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 
 
