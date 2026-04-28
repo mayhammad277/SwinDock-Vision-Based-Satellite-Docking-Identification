@@ -112,6 +112,7 @@ model = NaViT(
 
 
 
+<img width="1299" height="954" alt="image" src="https://github.com/user-attachments/assets/cfdfd894-c308-4a91-8f10-d5a28bb574c8" />
 
 
 
